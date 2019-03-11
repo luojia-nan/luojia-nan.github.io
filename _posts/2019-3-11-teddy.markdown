@@ -1,5 +1,9 @@
 ---
 layout: post
+title:  "Teddy"
+date:   2019-03-11 16:37:44
+categories: entertainment
+tags: films
 ---
 <img src="{{ site.baseurl }}/images/teddy.jpg">
 Some people see the ugliness in this world.
