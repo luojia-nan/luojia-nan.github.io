@@ -35,11 +35,17 @@
 
 		a:hover {
 			border-bottom-color: transparent;
+			/*
 			color: #4acaa8 !important;
+			*/
+			color: #333333 !important;
 		}
 
 	strong, b {
+		/*
 		color: #777;
+		*/
+		color: #999;
 		font-weight: 700;
 	}
 
@@ -52,7 +58,11 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
+		/*
 		color: #777;
+		*/
+		color: #999;
+		
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -195,12 +205,18 @@
 	}
 
 	header.major h2 {
+		/*
 		color: #4acaa8;
+		*/
+		color: #CCC;
 		font-size: 3.5em;
 	}
 
 		header.major h2 + p {
+			/*
 			color: #777;
+			*/
+			color: #999;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
