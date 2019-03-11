@@ -60,7 +60,10 @@
 /* Layers */
 
 	#titleBar {
+		/*
 		background: #222;
+		*/
+		background: #999;
 		color: #fff;
 		min-width: 320px;
 	}
@@ -95,7 +98,10 @@
 			}
 
 			#titleBar .toggle:before {
+				/*
 				background: #4acaa8;
+				*/
+				background: #333333;
 				color: #ffffff;
 				content: '\f0c9';
 				display: block;
@@ -113,7 +119,7 @@
 		/*
 		background: #4acaa8;
 		*/
-		background: #333333;
+		background: #999999;
 		
 		color: #d1f1e9;
 	}
