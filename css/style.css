@@ -876,7 +876,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8;
+			background-color: #333333;
 			color: #ffffff !important;
 		}
 
@@ -884,14 +884,14 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				background-color: #111111;
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #39c29d;
+				background-color: #000000;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -1034,7 +1034,7 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #5ccfb0;
+				border-top: solid 2px #CCCCCC;
 				display: block;
 				padding: 0;
 			}
@@ -1100,7 +1100,7 @@
 	#footer {
 		background: #999999;
 		border-top: 0;
-		color: #c0c0c0;
+		color: #ffffff;
 		overflow: hidden;
 		padding: 4em 0 2em 0;
 	}
