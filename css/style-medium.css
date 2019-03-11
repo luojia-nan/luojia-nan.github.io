@@ -110,6 +110,10 @@
 			}
 
 	#sidePanel {
+		/*
 		background: #4acaa8;
+		*/
+		background: #333333;
+		
 		color: #d1f1e9;
 	}
