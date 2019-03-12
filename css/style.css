@@ -1128,3 +1128,7 @@
 				#footer .copyright li a {
 					color: inherit;
 				}
+				
+	.post-tags {
+		text-align: right;
+	}
